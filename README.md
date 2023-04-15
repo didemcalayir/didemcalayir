@@ -1,12 +1,11 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Didem Calayır</h1>
-<p>🔭 I’m currently working remotely as a Freelancer. </p>
-<p>🤝 I'm open to collaborating on Projects. </p>
-<p>👯 I’m looking to collaborate on </p>
-<p>🌱 I’m currently learning on Javascript, React. </p>
-<p>⚡ Fun  </p>
-<p>💬 Ask me about everything.</p>
-<p>📫 How to reach me <a> didem.calayir@gmail.com</a></p>
+🔭 I’m currently working remotely as a Freelancer. <br>
+🤝 I'm open to collaborating on Projects. <br>
+👯 I’m looking to collaborate on <br>
+🌱 I’m currently learning on Javascript, React. <br>
+💬 Ask me about everything.<br>
+📫 How to reach me <br>
 <h3 align="center">A passionate Frontend | React Developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
