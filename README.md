@@ -1,5 +1,4 @@
-# 
-<h1 align="center"> 💫Hi 👋, I'm Didem </h1>
+<h2 align="center"> Hi 👋, I'm Didem </h2>
 🔭 I have been still working remotely and freelance. <br>
 🤝 I'm open for all projects, especially for collaborations where i can add something and learn from it at the same time. <br>
 👯 I have communication skills and high motivation, goal-oriented teamwork skills. <br>
