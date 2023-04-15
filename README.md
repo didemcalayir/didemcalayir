@@ -4,7 +4,7 @@
 👯 I have communication skills and high motivation, goal-oriented teamwork skills. <br>
 🌱 I’m currently learning on Javascript, React and have a tendency to dynamic and stylish web desing <br>
 💬 Ask me about everything..<br>
-📫 How to reach me <a> didem.calayir@gmail.com</a> <br>
+📫 How to reach me **didem.calayir@gmail.com**
 <h3 align="center">A passionate Frontend | React Developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
