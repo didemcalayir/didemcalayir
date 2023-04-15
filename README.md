@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Didem Calayır</h1>
-🔭 I’m currently working remotely as a Freelancer 
+<h6>🔭 I’m currently working remotely as a Freelancer </h6>
 🤝 I'm open to collaborating on Projects
 👯 I’m looking to collaborate on
 🌱 I’m currently learning on Javascript, React.
