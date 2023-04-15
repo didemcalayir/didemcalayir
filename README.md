@@ -1,11 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Didem </h1>
+<h3 align="center">A passionate Frontend | React Developer from Turkey</h3>
 🔭 I have been still working remotely and freelance. <br>
 🤝 I'm open for all projects, especially for collaborations where i can add something and learn from it at the same time. <br>
 👯 I have communication skills and high motivation, goal-oriented teamwork skills. <br>
 🌱 I’m currently learning on Javascript, React and have a tendency to dynamic and stylish web desing <br>
 💬 Ask me about everything..<br>
 📫 How to reach me <a href="mailto:didem.calayir@gmail.com">didem.calayir@gmail.com</a> <br>
-<h3 align="center">A passionate Frontend | React Developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
