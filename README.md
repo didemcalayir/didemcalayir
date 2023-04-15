@@ -1,6 +1,12 @@
 # 💫 About Me:
-didemcalayir
 <h1 align="center">Hi 👋, I'm Didem Calayır</h1>
+🔭 I’m currently working remotely as a Freelancer 
+🤝 I'm open to collaborating on Projects
+👯 I’m looking to collaborate on
+🌱 I’m currently learning on Javascript, React.
+⚡ Fun 
+💬 Ask me about everything.
+📫 How to reach me
 <h3 align="center">A passionate Frontend | React Developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
